@@ -1,0 +1,9 @@
+.env
+.env.*
+*.log
+*.sqlite
+*.db
+secrets/
+private-evidence/
+.DS_Store
+
